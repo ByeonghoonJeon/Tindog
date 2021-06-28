@@ -1,0 +1,116 @@
+/*Recoding required*/
+
+body {
+  font-family: "Montserrat", "sans-serif" !important;
+}
+.navbar-brand {
+  font-family: "Ubuntu", "sans-serif";
+  font-size: 2.5rem !important;
+  font-weight: bold;
+}
+.navbar {
+  font-size: 1.5rem !important;
+  padding-bottom: 4.5rem !important;
+
+}
+
+.navbar-nav {position:absolute; right: 0%;}
+
+#title {
+  background-color: #ff4c68;
+  color: white;
+}
+
+
+
+h1 {
+  font-family: "Montserrat", "sans-serif"!important;
+  font-size: 2.5em !important;
+  line-height: 1.5;
+}
+
+h2 {font-family: "Montserrat", "sans-serif"!important; font-size: 3rem!important; line-height: 1.5!important; font-weight: lighter!important;}
+
+.container-fluid {
+  padding-top: 3% !important;
+  padding-bottom: 0% !important;
+  padding-right: 10% !important;
+  padding-left: 10% !important;
+  height: 50rem!important;
+}
+.nav-item {
+  font-family: "Ubuntu", "sans-serif";
+  padding-right: 2.5rem;
+}
+
+.download-button {
+  margin-top: 2.5rem;
+  margin-bottom: 2.5rem;
+  margin-right: 2rem;
+}
+.apple-button:hover {
+  background-color: #ff4c68 !important;
+  color: black !important;
+  border: 1;
+}
+
+.icon {
+  color: #ef8172;
+}
+.icon:hover {
+  color: #ff4c68;
+}
+.col-lg-4 {
+  text-align: center!important;
+  padding: 0px !important;
+}
+.row {
+  padding: 0px;
+  margin: 0px !important;
+
+}
+
+.title-align {
+  padding-left: 0 !important;
+}
+
+#features {padding-right: 8% !important;
+padding-left: 8% !important; padding-top: 5%!important; padding-bottom: 5%!important; background-color: white; position: relative; margin: 0!important;
+}
+
+#testimonials {
+  padding-top: 3% !important;
+  padding-bottom: 7% !important;
+  padding-right: 5%;
+  padding-left: 5%;
+  text-align: center!important;
+  background-color: #ef8172;
+  color: #fff;
+}
+
+.testimonial-image{width: 10%; border-radius: 100%;}
+
+#press {background-color: #ef8172; text-align: center; padding-bottom: 3%;}
+.press-logo {width: 15%; margin: 20px; margin-bottom: 50px;}
+
+.carousel-item {padding-right: 15%!important; padding-left: 15%!important;}
+
+#pricing {padding-top: 3rem!important; padding-right: 8%!important; padding-left: 8%!important; padding-bottom: 3rem!important; text-align:center;}
+.price-row {margin-top: 2rem!important;}
+.card-align{height: 22rem!important; margin-left: auto; margin-right: auto;}
+.card-body{height: 250px!important;}
+.color-botton{background-color: #ff4c68!important; border-color: #ff4c68!important; color: white;}
+.card-title{margin-top: 1rem;}
+
+
+.maindog {position: absolute; right: 20%!important; transform:rotate(30)!important}
+
+@media (max-width:1028px){
+
+.maindog {position: static; transform:rotate(0)!important}
+
+}
+#cta {background-color: #ff4c68; color: white; text-align: center; padding-top: 3rem; padding-bottom: 3rem; padding-left: 35%; padding-right: 35%;}
+
+#footer {padding-top: 3rem; padding-bottom: 3rem; text-align: center;}
+.bottomicon {font-size: 1.5rem;}
